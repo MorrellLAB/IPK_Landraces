@@ -1,4 +1,4 @@
-# IPK_Landrances
+# IPK_Landraces
 This is a collection of 137 barley landraces to be used for the environmental associations project.
 
 Landraces are from:
